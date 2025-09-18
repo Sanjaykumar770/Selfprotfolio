@@ -3,9 +3,9 @@
 ## 🚀 About Me
 - 🎓 I'm a Computer Science student
 - 💻 Passionate about **Web Development, Java, and Data Mining**
-- 🔍 Currently working on **Crime Pattern Detection using Data Mining**
+- 🔍 Currently working on **Bank Management System**
 - 🌱 Learning **Spring Boot, React, and Cloud Computing**
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [your-email@example.com](mailto:maurs8271@gmail.com)
 
 ## 🛠️ Skills
 - **Languages:** Java, Python, C, JavaScript, SQL  
